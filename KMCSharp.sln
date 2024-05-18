@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMCSharp", "KMCSharp.csproj", "{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "KMCSharp.PowerSharedProject", "..\KMCSharp.PowerSharedProject\KMCSharp.PowerSharedProject.shproj", "{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "KMCSharp.PowerSharedProject", "KMCSharp.PowerSharedProject\KMCSharp.PowerSharedProject.shproj", "{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,7 +25,7 @@ Global
 		SolutionGuid = {09002200-5FC1-4E40-96FD-D9973AE2B599}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		..\KMCSharp.PowerSharedProject\KMCSharp.PowerSharedProject.projitems*{a5c200b1-e612-474c-9b8f-c5a6c0bf55da}*SharedItemsImports = 4
-		..\KMCSharp.PowerSharedProject\KMCSharp.PowerSharedProject.projitems*{c9fdf654-bee1-4a48-b453-cb67bbcdd536}*SharedItemsImports = 13
+		KMCSharp.PowerSharedProject\KMCSharp.PowerSharedProject.projitems*{a5c200b1-e612-474c-9b8f-c5a6c0bf55da}*SharedItemsImports = 4
+		KMCSharp.PowerSharedProject\KMCSharp.PowerSharedProject.projitems*{c9fdf654-bee1-4a48-b453-cb67bbcdd536}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal
