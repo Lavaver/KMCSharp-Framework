@@ -1,0 +1,6 @@
+D:\repos\KMCSharp\obj\Release\KMCSharp.csproj.AssemblyReference.cache
+D:\repos\KMCSharp\obj\Release\KMCSharp.csproj.CoreCompileInputs.cache
+D:\repos\KMCSharp\bin\Release\KMCSharp.dll
+D:\repos\KMCSharp\bin\Release\KMCSharp.pdb
+D:\repos\KMCSharp\obj\Release\KMCSharp.dll
+D:\repos\KMCSharp\obj\Release\KMCSharp.pdb

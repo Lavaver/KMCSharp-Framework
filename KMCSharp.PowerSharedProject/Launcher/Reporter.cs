@@ -42,7 +42,7 @@ namespace KMCSharp.Launcher
 #if DEBUG
         private const string SERVICE_ROOT = @"http://localhost:12580";
 #else
-
+        private const string SERVICE_ROOT = @"http://localhost:12580";
 #endif
 
         public const string Version = "0.9.5.7";
