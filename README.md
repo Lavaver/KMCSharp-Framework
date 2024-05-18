@@ -23,7 +23,6 @@
 
 - [MineStudio/KMCCC - An OpenSource Minecraft Launcher for .Net Developers](https://github.com/MineStudio/KMCCC)
 - [Hex-Dragon/PCL2 - Plain Craft Launcher（我的世界启动器 PCL）的源代码，为支持社区研究而公开。](https://github.com/Hex-Dragon/PCL2)
-- [Yuns-Lab/MCMsLogin-Python - Python 版本的一个微软登录 Minecraft 类库](https://github.com/Yuns-Lab/MCMsLogin-Python)
 - [.NET Framework 4.8](https://learn.microsoft.com/zh-cn/dotnet/framework/get-started/overview)
 - [Visual Basic（部分使用）](https://learn.microsoft.com/zh-cn/dotnet/visual-basic/)
 
@@ -32,17 +31,4 @@
 ### 人员支持
 
 - [Lavaver（本作者）](https://github.com/Lavaver)
-- 以及正在阅读 README 的你们
-
-> Hex-Dragon/PCL2 项目源语言为 Visual Basic 。部分功能实现（下载游戏、安装游戏）为转换后代码。
-
-> Yuns-Lab/MCMsLogin-Python 项目源语言为 Python 。功能实现为转换后代码。
-
----
-
-### 参考文献与引用章节
-
-- [Mojang API - 中文 Minecraft Wiki](https://zh.minecraft.wiki/w/Mojang_API?variant=zh-cn)
-  - [第一节《服务器的请求与响应》](https://zh.minecraft.wiki/w/Mojang_API?variant=zh-cn#%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%AF%B7%E6%B1%82%E4%B8%8E%E5%93%8D%E5%BA%94)
-  - [第二节《获取玩家信息》](https://zh.minecraft.wiki/w/Mojang_API?variant=zh-cn#%E8%8E%B7%E5%8F%96%E7%8E%A9%E5%AE%B6%E4%BF%A1%E6%81%AF)
-  - [第四节《Microsoft 身份验证》](https://zh.minecraft.wiki/w/Mojang_API?variant=zh-cn#Microsoft%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81)
+- 以及正在阅读 README 的你
