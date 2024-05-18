@@ -1,0 +1,2 @@
+D:\repos\KMCSharp\obj\Debug\KMCSharp.csproj.AssemblyReference.cache
+D:\repos\KMCSharp\obj\Debug\KMCSharp.csproj.CoreCompileInputs.cache
