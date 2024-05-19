@@ -29,12 +29,14 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,11 +48,11 @@
   <ItemGroup>
     <Compile Include="MainCore\Core.cs" />
     <Compile Include="MainCore\Reporter.cs" />
-    <Compile Include="MainModules\Microsoft\API\MainAPI.cs" />
-    <Compile Include="MainModules\Microsoft\API\MainAPInternal.cs" />
-    <Compile Include="MainModules\Microsoft\API\MainAPIProvider.cs" />
-    <Compile Include="MainModules\Microsoft\API\ServiceStatus.cs" />
-    <Compile Include="MainModules\Microsoft\API\Statistics.cs" />
+    <Compile Include="MainModules\Auth\API\MainAPI.cs" />
+    <Compile Include="MainModules\Auth\API\MainAPInternal.cs" />
+    <Compile Include="MainModules\Auth\API\MainAPIProvider.cs" />
+    <Compile Include="MainModules\Auth\API\ServiceStatus.cs" />
+    <Compile Include="MainModules\Auth\API\Statistics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

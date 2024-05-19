@@ -10,12 +10,13 @@ using System.Threading;
 namespace KMCSharp.Modules.Yggdrasil
 {
     /// <summary>
-    ///     Yggdrasil(正版验证)客户端
+    ///     Yggdrasil(传统 Mojang 正版验证)客户端<br></br>
+    ///     特别声明：Mojang 账号已经停止认证服务。如需要外置登录请预先在游戏核心内安装 Authlib-Injector 支持库。正版登录请改用 MSYggdrasilClient ，新式正版验证客户端代码极少轻便又可以安全登录（每个启动器的标配）
     /// </summary>
     public class YggdrasilClient
     {
-        public const string MicrosoftAuthServer = @"https://authserver.mojang.com";
-        public const string MicrosoftprofileServer = @"https://sessionserver.mojang.com/session/minecraft/profile/";
+        public const string 麻将AuthServer = @"https://authserver.mojang.com";
+        public const string 麻将profileServer = @"https://sessionserver.mojang.com/session/minecraft/profile/";
         private string Auth_Authentication => _authServer + "/authenticate";
         private string Auth_Refresh => _authServer + "/refresh";
         private string Auth_Validate => _authServer + "/validate";
@@ -34,7 +35,7 @@ namespace KMCSharp.Modules.Yggdrasil
 
         public YggdrasilClient(string authServer, Guid clientToken)
         {
-            _authServer = authServer ?? MicrosoftAuthServer;
+            _authServer = authServer ?? 麻将AuthServer;
             ClientToken = clientToken;
         }
 
@@ -62,14 +63,14 @@ namespace KMCSharp.Modules.Yggdrasil
             AccessToken = response.AccessToken;
             if (response.User != null)
             {
-                AccountType = response.User.Legacy ? "Legacy" : "Microsoft";
+                AccountType = response.User.Legacy ? "Legacy" : "Mojang";
                 Properties = response.User.Properties != null
                     ? response.User.Properties.ToJson()
                     : "{}";
             }
             else
             {
-                AccountType = "Microsoft";
+                AccountType = "Mojang";
                 Properties = "{}";
             }
             DisplayName = response.SelectedProfile.Name;

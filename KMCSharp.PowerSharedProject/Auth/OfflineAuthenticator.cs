@@ -53,7 +53,7 @@ namespace KMCSharp.Auth
                 DisplayName = DisplayName,
                 UUID = Tools.UsefulTools.GetPlayerUuid("DisplayName"),
                 Properties = "{}",
-                UserType = "microsoft"
+                UserType = "Offline"
             };
         }
 

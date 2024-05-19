@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("KMCSharp")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("KMCSharp Framework")]
+[assembly: AssemblyDescription("一个可以启动 Minecraft 核心的 .NET Framework 类库。范本自已停止维护的开源项目 KMCCC 。")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KMCSharp")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyProduct("KMCSharp Framework")]
+[assembly: AssemblyCopyright("Copyright © Lavaver 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

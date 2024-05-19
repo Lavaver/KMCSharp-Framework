@@ -4,11 +4,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using KMCSharp.Modules.Yggdrasil;
+using LitJson;
+using System.Net.Http;
+using System.Diagnostics;
+using System.Security.Policy;
+using System.Web;
+using KMCSharp.Launcher;
 
 namespace KMCSharp.Auth
 {
     /// <summary>
-    ///     正版验证器（直接登陆）
+    /// 外置登录（需要游戏核心提前安装 Authlib-Injector 支持库，且 Mojang 登录已失效，无法用于正版验证。如需正版验证需要使用 MicrosoftLogin 类进行微软正版验证。）
     /// </summary>
     public class YggdrasilLogin : IAuthenticator
     {
@@ -130,12 +136,12 @@ namespace KMCSharp.Auth
 
 
     /// <summary>
-    ///     正版验证器（直接登陆）
+    ///     外置验证器（直接登陆）
     /// </summary>
     public class YggdrasilRefresh : IAuthenticator
     {
         /// <summary>
-        ///     新建正版验证器
+        ///     新建外置验证器
         /// </summary>
         /// <param name="accessToken">合法的Token</param>
         /// <param name="twitchEnabled">是否启用Twitch</param>
@@ -149,7 +155,7 @@ namespace KMCSharp.Auth
         }
 
         /// <summary>
-        ///     新建正版验证器(随机的新ClientToken)
+        ///     新建外置验证器(随机的新ClientToken)
         /// </summary>
         /// <param name="accessToken">合法的Token</param>
         /// <param name="twitchEnabled">是否启用Twitch</param>
@@ -209,7 +215,7 @@ namespace KMCSharp.Auth
 
 
     /// <summary>
-    ///     正版验证器（验证AccessToken是否可用，不可用将尝试Refresh）
+    ///     外置验证器（验证AccessToken是否可用，不可用将尝试Refresh）
     /// </summary>
     public class YggdrasilValidate : IAuthenticator
     {
@@ -377,4 +383,7 @@ namespace KMCSharp.Auth
             return Task<AuthenticationInfo>.Factory.StartNew(Do, token);
         }
     }
+
+
+    
 }

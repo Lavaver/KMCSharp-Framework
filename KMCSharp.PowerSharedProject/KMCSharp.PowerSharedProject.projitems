@@ -12,6 +12,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Auth\AuthenticationInfo.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Auth\IAuthenticator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Auth\OfflineAuthenticator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Auth\MSAuthenticator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Auth\WarpedAuhenticator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Auth\Yggdrasil.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Launcher\LaunchArguments.cs" />
@@ -35,11 +36,18 @@
     <Compile Include="$(MSBuildThisFileDirectory)Modules\JVersion\JVersion.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Modules\JVersion\JVersionLocator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Modules\Minecraft\ServerPing.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Modules\Yggdrasil\Microsoft\AuthClient\MSYggdrasilClient.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Modules\Yggdrasil\YggdrasilClient.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Modules\Zip\ZipArchive.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Auth\MSAuthenticator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Tools\FileValidator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Tools\SystemTools.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Tools\UsefulTools.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Tools\ZipTools.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)PythonLoginPlugin\ModException.py" />
+    <None Include="$(MSBuildThisFileDirectory)PythonLoginPlugin\ModLogging.py" />
+    <None Include="$(MSBuildThisFileDirectory)PythonLoginPlugin\ModMsAuth.py" />
   </ItemGroup>
 </Project>

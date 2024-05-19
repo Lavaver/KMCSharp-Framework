@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\repos\\KMCSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\yggdrasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|solutionrelative:kmcsharp.powersharedproject\\auth\\yggdrasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|d:\\repos\\kmcsharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\auth\\msauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\msauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\modules\\yggdrasil\\microsoft\\authclient\\msyggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\yggdrasil\\microsoft\\authclient\\msyggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\modules\\yggdrasil\\yggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\yggdrasil\\yggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\litjson\\jsonmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsonmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,80 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yggdrasil.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:30:04.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonMapper.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAHQDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:52:16.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YggdrasilClient.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAIwH4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:25:55.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSYggdrasilClient.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:18:23.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSAuthenticator.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:18:09.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\repos\\KMCSharp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-18T17:46:36.161Z",
+              "EditorCaption": ""
             }
           ]
         }
