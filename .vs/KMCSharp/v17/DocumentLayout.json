@@ -3,28 +3,148 @@
   "WorkspaceRootPath": "D:\\repos\\KMCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\yggdrasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|solutionrelative:kmcsharp.powersharedproject\\auth\\yggdrasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|d:\\repos\\kmcsharp\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|solutionrelative:license||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|d:\\repos\\kmcsharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\auth\\msauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\msauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\modules\\yggdrasil\\microsoft\\authclient\\msyggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\yggdrasil\\microsoft\\authclient\\msyggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\modules\\yggdrasil\\yggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\modules\\yggdrasil\\yggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\yggdrasil\\yggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|D:\\repos\\KMCSharp\\kmcsharp.powersharedproject\\litjson\\jsonmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\authenticationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\authenticationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|D:\\repos\\KMCSharp\\maincore\\reporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C200B1-E612-474C-9B8F-C5A6C0BF55DA}|KMCSharp.csproj|solutionrelative:maincore\\reporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\tools\\ziptools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\tools\\ziptools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\tools\\usefultools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\tools\\usefultools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\tools\\systemtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\tools\\systemtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\tools\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\tools\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\modules\\zip\\ziparchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\zip\\ziparchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\modules\\yggdrasil\\microsoft\\authclient\\msyggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\yggdrasil\\microsoft\\authclient\\msyggdrasilclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\modules\\minecraft\\serverping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\minecraft\\serverping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\modules\\jversion\\jversionlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\jversion\\jversionlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\modules\\jversion\\jversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\modules\\jversion\\jversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\parsertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\parsertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\jsonwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsonwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\jsonpropertyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsonpropertyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\jsonmockwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsonmockwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\jsonmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsonmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\jsonexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsonexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\litjson\\ijsonwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\litjson\\ijsonwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\reporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\reporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\launchmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\launchmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\launchhandleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\launchhandleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\launchhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\launchhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\launchercoreinternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\launchercoreinternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\launchercore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\launchercore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\launcher\\launcharguments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\launcher\\launcharguments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\yggdrasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\yggdrasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\warpedauhenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\warpedauhenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\offlineauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\offlineauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\msauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\msauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|d:\\repos\\kmcsharp\\kmcsharp.powersharedproject\\auth\\iauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDF654-BEE1-4A48-B453-CB67BBCDD536}|KMCSharp.PowerSharedProject\\KMCSharp.PowerSharedProject.shproj|solutionrelative:kmcsharp.powersharedproject\\auth\\iauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,76 +167,440 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Yggdrasil.cs",
-              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
-              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
-              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
-              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T10:30:04.771Z",
+              "Title": "LICENSE",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "D:\\repos\\KMCSharp\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T10:27:44.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JsonMapper.cs",
-              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
-              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
-              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
-              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
-              "ViewState": "AQIAAIYAAAAAAAAAAAAAAHQDAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Reporter.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\MainCore\\Reporter.cs",
+              "RelativeDocumentMoniker": "MainCore\\Reporter.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\MainCore\\Reporter.cs",
+              "RelativeToolTip": "MainCore\\Reporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T09:52:16.746Z"
+              "WhenOpened": "2024-05-21T04:28:15.037Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ZipTools.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Tools\\ZipTools.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Tools\\ZipTools.cs",
+              "ToolTip": "KMCSharp.PowerSharedProject/Tools/ZipTools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "KMCSharp.PowerSharedProject\\Tools",
+              "OverriddenToolTip": "KMCSharp.PowerSharedProject/Tools/ZipTools.cs",
+              "WhenOpened": "2024-05-19T11:30:21.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Tools\\FileValidator.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Tools\\FileValidator.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Tools\\FileValidator.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Tools\\FileValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:17.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZipArchive.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Zip\\ZipArchive.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\Zip\\ZipArchive.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Zip\\ZipArchive.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\Zip\\ZipArchive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "YggdrasilClient.cs",
               "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
               "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
               "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
               "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\YggdrasilClient.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAIwH4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T09:25:55.314Z"
+              "WhenOpened": "2024-05-19T11:30:13.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MSYggdrasilClient.cs",
               "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
               "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
               "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
               "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\Yggdrasil\\Microsoft\\AuthClient\\MSYggdrasilClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T09:18:23.81Z"
+              "WhenOpened": "2024-05-19T11:30:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerPing.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Minecraft\\ServerPing.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\Minecraft\\ServerPing.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\Minecraft\\ServerPing.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\Minecraft\\ServerPing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JVersionLocator.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersionLocator.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersionLocator.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersionLocator.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersionLocator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:08.137Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MSAuthenticator.cs",
-              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
-              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
-              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
-              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxYAAAAbAAAA",
+              "Title": "AuthenticationInfo.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\AuthenticationInfo.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\AuthenticationInfo.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\AuthenticationInfo.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\AuthenticationInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T09:18:09.796Z"
+              "OverriddenGroupName": "KMCSharp.PowerSharedProject\\Auth",
+              "WhenOpened": "2024-05-19T11:29:30.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\repos\\KMCSharp\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\repos\\KMCSharp\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AQIAACUAAAAAAAAAAAAmwFQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-18T17:46:36.161Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "SystemTools.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Tools\\SystemTools.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Tools\\SystemTools.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Tools\\SystemTools.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Tools\\SystemTools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:18.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsefulTools.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Tools\\UsefulTools.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Tools\\UsefulTools.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Tools\\UsefulTools.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Tools\\UsefulTools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:19.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JVersion.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersion.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersion.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersion.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Modules\\JVersion\\JVersion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:07.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParserToken.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\ParserToken.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\ParserToken.cs",
+              "ToolTip": "KMCSharp.PowerSharedProject/LitJson/ParserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "KMCSharp.PowerSharedProject\\LitJson",
+              "OverriddenToolTip": "KMCSharp.PowerSharedProject/LitJson/ParserToken.cs",
+              "WhenOpened": "2024-05-19T11:30:01.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\Lexer.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\Lexer.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\Lexer.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\Lexer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:30:00.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JsonWriter.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonWriter.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonWriter.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonWriter.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:57.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JsonReader.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonReader.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonReader.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonReader.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:56.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JsonPropertyName.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonPropertyName.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonPropertyName.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonPropertyName.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonPropertyName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:54.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JsonMockWrapper.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMockWrapper.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonMockWrapper.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMockWrapper.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonMockWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:54.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JsonMapper.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JsonException.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonException.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonException.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonException.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:50.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JsonData.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonData.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\JsonData.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\JsonData.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\JsonData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:49.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJsonWrapper.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\IJsonWrapper.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\LitJson\\IJsonWrapper.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\LitJson\\IJsonWrapper.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\LitJson\\IJsonWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:48.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Reporter.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\Reporter.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\Reporter.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\Reporter.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\Reporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:47.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Version.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\Version.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\Version.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\Version.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\Version.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:46.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LaunchMode.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchMode.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\LaunchMode.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchMode.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\LaunchMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:45.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LaunchHandle.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchHandle.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\LaunchHandle.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchHandle.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\LaunchHandle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:42.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LaunchHandleExtensions.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchHandleExtensions.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\LaunchHandleExtensions.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchHandleExtensions.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\LaunchHandleExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:41.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LauncherCoreInternal.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LauncherCoreInternal.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\LauncherCoreInternal.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LauncherCoreInternal.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\LauncherCoreInternal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:41.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LauncherCore.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LauncherCore.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\LauncherCore.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LauncherCore.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\LauncherCore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:40.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LaunchArguments.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchArguments.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Launcher\\LaunchArguments.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Launcher\\LaunchArguments.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Launcher\\LaunchArguments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:39.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Yggdrasil.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\Yggdrasil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WarpedAuhenticator.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\WarpedAuhenticator.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\WarpedAuhenticator.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\WarpedAuhenticator.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\WarpedAuhenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:35.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OfflineAuthenticator.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\OfflineAuthenticator.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\OfflineAuthenticator.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\OfflineAuthenticator.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\OfflineAuthenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:35.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAuthenticator.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\IAuthenticator.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\IAuthenticator.cs",
+              "ToolTip": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\IAuthenticator.cs",
+              "RelativeToolTip": "KMCSharp.PowerSharedProject\\Auth\\IAuthenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:29:33.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MSAuthenticator.cs",
+              "DocumentMoniker": "D:\\repos\\KMCSharp\\KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
+              "RelativeDocumentMoniker": "KMCSharp.PowerSharedProject\\Auth\\MSAuthenticator.cs",
+              "ToolTip": "KMCSharp.PowerSharedProject/Auth/MSAuthenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "KMCSharp.PowerSharedProject\\Auth",
+              "OverriddenToolTip": "KMCSharp.PowerSharedProject/Auth/MSAuthenticator.cs",
+              "WhenOpened": "2024-05-19T11:29:31.304Z"
             }
           ]
         }
